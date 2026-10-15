@@ -1,0 +1,6 @@
+{
+  "name": "Fuel Transactions for Wialon Fleet",
+  "description": "Real-time Wialon fleet management interface with automatic background session renewal, token authentication, unit telemetry, and fuel transaction monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
